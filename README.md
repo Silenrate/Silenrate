@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I am Daniel Felipe Walteros Trujillo </h1>
 <p  align ="left"> I am a software engineer student interested in Software Development, Quality and Assurance</p>
 
-* 🔭 I’m currently studying on [Julio Garavito Colombian School of Engineering](https://www.escuelaing.edu.co/es/)
+* 🔭 Graduated on [Julio Garavito Colombian School of Engineering](https://www.escuelaing.edu.co/es/)
 
 
 <h2 align="left">GitHub Status </h2>
